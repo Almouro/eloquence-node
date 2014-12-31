@@ -10,4 +10,4 @@ to retrieve:
   
 The Eloquence frontend stores words synonyms locally, so it can specify which words needs synonyms data.
   
-Example: http://eloquence-node.herokuapp.com/sentence/{"sentence":"my cat is very happy","words":["cat", "happy"]}
+Example: <a href="http://eloquence-node.herokuapp.com/sentence/%7B%22sentence%22:%22my%20cat%20is%20very%20happy%22,%22words%22:[%22cat%22,%20%22happy%22]%7D">http://eloquence-node.herokuapp.com/sentence/{"sentence":"my cat is very happy","words":["cat", "happy"]}</a>
